@@ -3,7 +3,7 @@ import UserSchema from "./UserSchema";
 import bcrypt from 'bcrypt';
 import jwt from 'jsonwebtoken';
 import config from "../config/config";
-import { AuthRequest } from "../middlewares/authenticate";
+import { AuthRequest } from "../middlewares/authenticate"; 
 
 const register = async(req:Request,res:Response,next:NextFunction)=>{
     const {name,email,password} = req.body;
