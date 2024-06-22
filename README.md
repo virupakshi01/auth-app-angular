@@ -31,7 +31,7 @@ It is Simple undergoing project. to Understand Angular Authorization and Authent
 
 2. **Navigate to the project directory**:
    ```bash
-   cd angular-jwt-authentication-system
+   cd main-app
    ```
 
 3. **Install dependencies**:
