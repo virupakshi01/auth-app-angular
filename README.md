@@ -69,7 +69,7 @@ It is Simple undergoing project. to Understand Angular Authorization and Authent
 For any queries or contributions, feel free to connect with me:
 
 - [![Email](https://img.shields.io/badge/Email-virupakshbm01%40gmail.com-blue)](mailto:virupakshbm01@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Virupakshi--zo-blue)](https://www.linkedin.com/in/virupakshi-mathapati/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Virupakshi-blue)](https://www.linkedin.com/in/virupakshi-mathapati/)
 
 ## Acknowledgments
 
